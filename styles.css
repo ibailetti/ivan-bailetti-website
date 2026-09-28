@@ -44,6 +44,7 @@ a:hover, a:focus-visible { color: var(--navy); border-bottom-color: var(--coral)
 
 ul { margin: 0; padding: 0; list-style: none; }
 .plain li { margin-bottom: .2rem; overflow-wrap: anywhere; }
+.plain .fullname { font-weight: 600; color: var(--ink); }
 
 /* Hexagon bullets, echoing the resume's hexagon motif */
 .hex li { position: relative; padding-left: 1.4rem; margin-bottom: .35rem; }
