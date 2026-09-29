@@ -1,6 +1,9 @@
 # Iván Bailetti Ferreyra — Personal website
 
-A minimalist, bilingual (English / Español) one-page site with Iván's education, certifications and work experience.
+Minimalist bilingual (EN/ES) personal website for Iván Bailetti Ferreyra, with his education, certifications and work experience.
+
+Live site: <https://ibailetti.github.io/ivan-bailetti-website/>
+
 Plain HTML, CSS and JavaScript: no build step, no dependencies.
 
 ## Structure
